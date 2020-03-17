@@ -1,7 +1,7 @@
 backend:
   name: github
-  brancch: master
-  repo:
+  branch: master
+  repo: alclopes/mod15_markdown
 
 media_folder: static/img
 public_folder: /img
